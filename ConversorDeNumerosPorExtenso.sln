@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDeNumerosPorExtenso", "ConversorDeNumerosPorExtenso\ConversorDeNumerosPorExtenso.csproj", "{DD69420B-5CDE-4949-8B1B-99A6FD5FD7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD69420B-5CDE-4949-8B1B-99A6FD5FD7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD69420B-5CDE-4949-8B1B-99A6FD5FD7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD69420B-5CDE-4949-8B1B-99A6FD5FD7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD69420B-5CDE-4949-8B1B-99A6FD5FD7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7CD8BF-22E2-4323-A4EB-C6C5AAC0DA7E}
+	EndGlobalSection
+EndGlobal
